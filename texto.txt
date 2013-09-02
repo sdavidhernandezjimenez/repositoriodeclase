@@ -1,0 +1,2 @@
+para hacer que git ignore archivos al momento de hacer un add*
+solo es nesesario escribir git add "nombre del archivo"
